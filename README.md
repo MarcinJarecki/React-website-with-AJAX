@@ -1,5 +1,7 @@
+Project under development
+
 # React-website-with-AJAX
-React website calling AJAX
+
 ===================
 
 [![Code Climate](https://codeclimate.com/github/MarcinJarecki/React-website-with-AJAX/badges/gpa.svg)](https://codeclimate.com/github/MarcinJarecki/React-website-with-AJAX)
